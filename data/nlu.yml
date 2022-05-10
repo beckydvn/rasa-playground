@@ -94,4 +94,3 @@ nlu:
   examples: |
     - I want a [cheese](order) pizza
     - I want a [pepperoni](order) pizza
-    - I want a [gluten free](order) pizza
